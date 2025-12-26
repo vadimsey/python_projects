@@ -41,8 +41,6 @@ def choice(sum1,sum2):
         else:
             print("===Enter a valid choice===")
 
-
-
 def plus(sum1, sum2):
     sum3 = sum1 + sum2
     return f"{sum1} + {sum2} = {sum3}"
